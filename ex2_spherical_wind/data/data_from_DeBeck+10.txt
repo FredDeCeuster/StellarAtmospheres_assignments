@@ -1,0 +1,34 @@
+Name: WX Psc
+IRASPSC: 01037+1219
+Chemical type: O
+Distance: 740 pc
+Period: 660 days
+Teff: 2750 K
+Luminosity: 13914 Lsun
+Radius (R*): 520 Rsun
+Mass-loss rate: 1.9e-5 Msun/yr
+Outer radius of the CSE (R_outer): 1.1e17 cm
+Dust condensation temperature: 1500 K
+Dust condensation radius (R_inner): 1.7 R*
+Fractional CO abundance (f_H,CO): 1e-4
+
+From the spectra
+v_LSR: 9 km/s
+Expansion velocity: 19.8 km/s
+
+Molecular frequencies
+CO (3-2): 345.8 GHz
+CO (4-3): 461.0 GHz
+CO (7-6): 806.7 GHz
+
+APEX telescope 
+Diameter: 12m
+Beam sizes at
+345 GHz: 17.3"
+460 GHz: 13.3"
+810 GHz: 7.7"
+
+
+Note: can also use equation 9 in DeBeck+10 (plus info in Table 3 & Section 3.3) to calculate an empirical mass-loss rate
+
+
