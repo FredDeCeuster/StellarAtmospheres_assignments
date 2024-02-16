@@ -30,5 +30,3 @@ Beam sizes at
 
 
 Note: can also use equation 9 in DeBeck+10 (plus info in Table 3 & Section 3.3) to calculate an empirical mass-loss rate
-
-
