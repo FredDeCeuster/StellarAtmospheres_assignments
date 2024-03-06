@@ -1,9 +1,0 @@
-Name: pi1 Gru
-Distance: 150 pc
-Chemistry: S
-Fractional CO abundance: 6.5e-4
-Microturbulent velocity: 2 km/s
-Geometry: torus (inclination 40deg), perpendicular fast bipolar outflow, central component (ignore for now)
-
-Torus parameters reproduce line shape and channel maps. Component sizes constrained by measurable spatial extents.
-
